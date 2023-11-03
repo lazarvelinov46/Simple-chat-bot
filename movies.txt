@@ -1,0 +1,12 @@
+Goodfellas;1990;Crime,Drama;145;Robert De Niro,Ray Liotta,Joe Pesci;92
+Casino;1995;Crime,Drama;178;Robert De Niro,Joe Pesci,Sharon Stone;73
+The Godfather;1972;Crime,Drama;175;Marlon Brando,Al Pacino,Robert Duvall,James Caan,Diane Keaton;100
+True Romance;1993;Crime,Drama,Romance;119;Christian Slater,Patricia Arquette,Val Kilmer;59
+Interstellar;2014;Adventure,Drama,Sci-Fi;169;Matthew McConaughey,Anne Hathaway,Jessica Chastain;74
+Saving Private Ryan;1998;Drama,War;169;Tom Hanks,Matt Damon,Tom Sizemore;91
+The Hangover;2009;Comedy;100;Zach Galifianakis,Ed Helms,Bradley Cooper;73
+It;2017;Horror;135;Bill Skarsgard,Jaeden Martell,Finn Wolfhard;59
+The Dark Knight;2008;Action,Crime,Drama;152;Christian Bale,Heath Ledger,Michael Kane,Gary Oldman;84
+The Hustler;1961;Sport,Drama;134;Paul Newman,Jackie Gleason,Piper Laurie;90
+The Lion King;1994;Cartoon,Adventure,Drama;88;Matthew Broderick,Jeremy Irons,James Earl Jones;88
+Bad Will Hunting;2022;Drama,Romance;137;Dragan Bjelogrlic,Srdjan Todorovic,Nikola Djuricko;100

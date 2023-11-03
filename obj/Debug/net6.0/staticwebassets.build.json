@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "vZWW/Sq0PwjWonU6q06hlHPC2+O8A9D+3V+d76sg3c8=",
+  "Source": "DiplomskiRad",
+  "BasePath": "_content/DiplomskiRad",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DiplomskiRad\\wwwroot",
+      "Source": "DiplomskiRad",
+      "ContentRoot": "C:\\ETF\\Diplomski\\probica2\\probica2\\wwwroot\\",
+      "BasePath": "_content/DiplomskiRad",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\ETF\\Diplomski\\probica2\\probica2\\wwwroot\\default.htm",
+      "SourceId": "DiplomskiRad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ETF\\Diplomski\\probica2\\probica2\\wwwroot\\",
+      "BasePath": "_content/DiplomskiRad",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

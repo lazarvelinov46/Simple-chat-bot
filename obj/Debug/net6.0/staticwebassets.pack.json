@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\ETF\\Diplomski\\probica2\\probica2\\wwwroot\\default.htm",
+      "PackagePath": "staticwebassets\\default.htm"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DiplomskiRad.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DiplomskiRad.props",
+      "PackagePath": "build\\DiplomskiRad.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DiplomskiRad.props",
+      "PackagePath": "buildMultiTargeting\\DiplomskiRad.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DiplomskiRad.props",
+      "PackagePath": "buildTransitive\\DiplomskiRad.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

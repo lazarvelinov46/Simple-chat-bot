@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\probica2.props" />
+</Project>
